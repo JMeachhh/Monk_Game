@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dungeon">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dungeon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monk">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABABAIAAAACAAYAAEAQIIAAEEAASCKAAAAgAAIIg=</HashCode>
+      <FileName>Monk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monster">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAQAIAQEEAACAIgAAAAAAAAg=</HashCode>
+      <FileName>Monster.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Room">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAEAAAAAACAAABAAEAAQAQIACAAAAgAAAAAiAgA=</HashCode>
+      <FileName>Room.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAQAAAAEEAACAAAAEAAAACAg=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonsterRoom">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAZAAAAAAAACAQAAAAIAAAAAAACAAAAAAAAAIgAAA=</HashCode>
+      <FileName>MonsterRoom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptyRoom">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAAAAACAIAAAAAACAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>EmptyRoom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreasureRoom">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAAAAACgAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>TreasureRoom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goblin">
+    <Position X="9" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAQAIAQENAACAIAAAAAAAAAg=</HashCode>
+      <FileName>Goblin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rat">
+    <Position X="11.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAACAAAQAAAAQAIAQEFAACAIAAAAAAAAAg=</HashCode>
+      <FileName>Rat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAQAIAQEFAACAIAIAAAAAAAg=</HashCode>
+      <FileName>Wizard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devil">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAQAAAAQAIAQEFAACQIAAAAAAAAAg=</HashCode>
+      <FileName>Devil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
